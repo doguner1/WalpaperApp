@@ -1,7 +1,5 @@
 # Wallpaper App
 
-![Wallpaper App Logo](Images/logo.png)
-
 Bu SwiftUI uygulaması, farklı kategorilerdeki duvar kağıtlarını görüntülemenizi ve indirmenizi sağlar. Doğa, Hayvanlar, Balıklar ve Çiçekler olmak üzere dört farklı kategori bulunmaktadır.
 
 ## Kullanılan Teknolojiler
@@ -20,11 +18,17 @@ Bu SwiftUI uygulaması, farklı kategorilerdeki duvar kağıtlarını görüntü
 
 ## Örnek Ekran Görüntüleri
 
-![Ana Ekran](Images/anaGoruntu.png)
+![İndir](https://github.com/doguner1/GitImageData/blob/main/WalpaperApp/Ekran%20Resmi%202024-05-26%2023.25.07.png?raw=true)
 *Ana Ekran*
 
-![Doğa Kategorisi](Images/doga.png)
-*Doğa Kategorisi*
+![Ana Ekran](https://github.com/doguner1/GitImageData/blob/main/WalpaperApp/Ekran%20Resmi%202024-05-26%2023.24.50.png?raw=true)
+*Ana Ekran*
+
+![Hayvanlar](https://github.com/doguner1/GitImageData/blob/main/WalpaperApp/Ekran%20Resmi%202024-05-26%2023.24.56.png?raw=true)
+*Hayvanlar Kategorisi*
+
+![Çiçekler](https://github.com/doguner1/GitImageData/blob/main/WalpaperApp/Ekran%20Resmi%202024-05-26%2023.25.01.png?raw=true)
+*Çiçekler Kategorisi*
 
 ## Nasıl Kullanılır
 
