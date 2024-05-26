@@ -24,7 +24,6 @@ Bu SwiftUI uygulaması, farklı kategorilerdeki duvar kağıtlarını görüntü
 
 ![Hayvanlar](https://github.com/doguner1/GitImageData/blob/main/WalpaperApp/Ekran%20Resmi%202024-05-26%2023.24.56.png?raw=true)
 ![Çiçekler](https://github.com/doguner1/GitImageData/blob/main/WalpaperApp/Ekran%20Resmi%202024-05-26%2023.25.01.png?raw=true)
-*Çiçekler Kategorisi*
 
 ## Nasıl Kullanılır
 
